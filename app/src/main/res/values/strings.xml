@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Bluetooth Alarm</string>
+    
+    <!-- Alarm -->
+    <string name="alarm_setup">Alarm Setup</string>
+    <string name="set_time">Set Time</string>
+    <string name="enable_alarm">Enable Alarm</string>
+    <string name="alarm_enabled">Alarm Enabled</string>
+    <string name="alarm_disabled">Alarm Disabled</string>
+    
+    <!-- Bluetooth -->
+    <string name="bluetooth_setup">Bluetooth Setup</string>
+    <string name="scan_devices">Scan for Devices</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    
+    <!-- Audio -->
+    <string name="audio_setup">Audio Setup</string>
+    <string name="select_audio_file">Select Audio File</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="file_selected">File: %s</string>
+    <string name="preview">Preview</string>
+    <string name="stop_preview">Stop Preview</string>
+    
+    <!-- Permissions -->
+    <string name="bluetooth_permission_required">Bluetooth permission is required</string>
+    <string name="exact_alarm_permission_required">Exact alarm permission is required</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <!-- Notifications -->
+    <string name="alarm_notification_channel">Alarm Notifications</string>
+    <string name="alarm_notification_channel_desc">Notifications for alarm playback</string>
+    <string name="alarm_playing">Alarm Playing</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    
+    <!-- Errors -->
+    <string name="error_setting_alarm">Error setting alarm</string>
+    <string name="error_bluetooth_connection">Bluetooth connection error</string>
+    <string name="error_audio_playback">Audio playback error</string>
+    
+    <!-- Settings -->
+    <string name="save_settings">Save Settings</string>
+    <string name="settings_saved">Settings saved</string>
+</resources>
